@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var 
+  var
 }
 
 function viewCart() {
@@ -30,5 +30,5 @@ function placeOrder(cardNumber) {
 }
 
 function getRandomInt(max) {
-  return Math.floor(Math.random() * max)
+  return Math.floor(Math.random() * Math.floor(max))
 }
