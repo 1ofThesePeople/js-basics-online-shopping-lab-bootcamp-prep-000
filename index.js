@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var
+  var itemInfo = {[item]: getRandomInt}
 }
 
 function viewCart() {
