@@ -11,6 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
   var itemInfo = {[item]: getRandomInt}
+  cart.push(itemInfo)
 }
 
 function viewCart() {
